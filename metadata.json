@@ -1,0 +1,5 @@
+{
+  "name": "FitManage - Personal Trainer System",
+  "description": "A comprehensive SaaS platform for personal trainers to manage students, workouts, and payments, featuring dedicated views for admins, trainers, and students with full dark mode support.",
+  "requestFramePermissions": []
+}
